@@ -20,7 +20,7 @@
 ---
 
 ### 🌐 Portfolio
-- 🔭 Coming Soon... (bom1::b6crx-1777404438133-0eb655ace367)
+- 🔭 my web... (portf-8y8u3lgls-sekar200412s-projects.vercel.app)
 
 ---
 
