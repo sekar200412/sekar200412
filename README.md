@@ -20,7 +20,7 @@
 ---
 
 ### 🌐 Portfolio
-- 🔭 my web... (portf-8y8u3lgls-sekar200412s-projects.vercel.app)
+- 🔭 my web... ([https://portf-8y8u3lgls-sekar200412s-projects.vercel.app/])
 
 ---
 
